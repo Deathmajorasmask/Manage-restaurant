@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(1525): warning C4101: 'pchm': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(1525): warning C4101: 'auxpchfecha': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(1525): warning C4101: 'dia': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(1525): warning C4101: 'mes': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(1525): warning C4101: 'año': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(2333): warning C4101: 'filec2': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(2331): warning C4101: 'indicec': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(2816): warning C4101: 'hf': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_restaurante\restaurante\source.cpp(3195): warning C4101: 'j': unreferenced local variable
+  Restaurante.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_Restaurante\Debug\Restaurante.exe
+  Restaurante.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_Restaurante\Debug\Restaurante.pdb (Full PDB)
